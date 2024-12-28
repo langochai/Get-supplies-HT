@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="NhatVatTu.View.HistoryPage">
+    <ContentPage.Content>
+        <StackLayout Padding="0.5">
+            <!-- Phần Tìm kiếm -->
+            <Label Text="LỊCH SỬ KIỂM TRA
+                   " FontSize="28"  FontAttributes="Bold" HorizontalOptions="CenterAndExpand" Margin="0, 0, 0, 0" BackgroundColor="CadetBlue" TextColor="WhiteSmoke" />
+            <Frame BorderColor="Green" CornerRadius="2" HasShadow="True" Padding="0"  VerticalOptions="CenterAndExpand">
+                <StackLayout Orientation="Horizontal" Margin="0, 0, 0, 0">
+                    <Label Text=" From" VerticalOptions="CenterAndExpand" FontSize="16" />
+                    <DatePicker x:Name="datePickerFrom" Format="dd/MM/yyyy" VerticalOptions="CenterAndExpand" />
+                    <Label Text="To :" VerticalOptions="CenterAndExpand" FontSize="16" />
+                    <DatePicker x:Name="datePickerTo" Format="dd/MM/yyyy" VerticalOptions="CenterAndExpand" />
+                    <Button Text="Search" Clicked="BtnSearch_Clicked" WidthRequest="60" VerticalOptions="CenterAndExpand" FontSize="9" FontAttributes="Bold"/>
+                </StackLayout>
+            </Frame>
+
+            <!-- Phần Hiển thị danh sách -->
+            <ListView x:Name="listView" HasUnevenRows="True">
+                <!-- Header Row -->
+                <ListView.Header>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
+                        </Grid.ColumnDefinitions>
+
+                        <!-- Các header column -->
+                        <Label Text="Mã vật tư" Grid.Column="0" FontAttributes="Bold" TextColor="Red" />
+                        <Label Text="Tên vật tư" Grid.Column="1" FontAttributes="Bold" TextColor="Red"  />
+                        <Label Text="Loại" Grid.Column="2" FontAttributes="Bold" TextColor="Red" />
+                        <Label Text="Vị trí" Grid.Column="3" FontAttributes="Bold" TextColor="Red" />
+                        <Label Text="Người kiểm tra" Grid.Column="4" FontAttributes="Bold" TextColor="Red" />
+                        <Label Text="TG kiểm tra" Grid.Column="5" FontAttributes="Bold" TextColor="Red"  />
+                        <Label Text="SL kế hoạch" Grid.Column="6" FontAttributes="Bold" TextColor="Red" />
+                        <Label Text="SL thực tế" Grid.Column="7" FontAttributes="Bold" TextColor="Red" />
+
+                        
+                    </Grid>
+                </ListView.Header>
+                <!-- Data Row -->
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="*" />
+                                </Grid.ColumnDefinitions>
+
+                                <!-- Các dữ liệu cần hiển thị -->
+                                <Label Text="{Binding MaterialCode}" Grid.Column="0" />
+                                <Label Text="{Binding MaterialName}" Grid.Column="1" />
+                                <Label Text="{Binding MaterialType}" Grid.Column="2" />
+                                <Label Text="{Binding Location}" Grid.Column="3" />
+                                <Label Text="{Binding Worker}" Grid.Column="4" />
+                                <Label Text="{Binding CheckTime}" Grid.Column="5" />
+                                <Label Text="{Binding PlannedQuantity}" Grid.Column="6" />
+                                <Label Text="{Binding ActualQuantity}" Grid.Column="7" />
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
