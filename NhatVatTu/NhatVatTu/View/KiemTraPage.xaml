@@ -22,16 +22,28 @@
                         FontSize="18"
                         Text="Nhóm: "
                         VerticalOptions="CenterAndExpand"
-                        WidthRequest="57" />
+                        WidthRequest="70" />
+                    <SearchBar x:Name="searchBar" Placeholder="Chọn nhóm" />
+                </StackLayout>
+                <StackLayout>
                     <Frame
+                        x:Name="listGroupContainer"
                         Margin="0,-5,0,0"
                         Padding="2"
-                        BackgroundColor="LightGray"
+                        BackgroundColor="WhiteSmoke"
                         BorderColor="Orange"
                         HasShadow="False"
-                        WidthRequest="100">
-                        <Picker x:Name="groups" Title="Chọn nhóm" />
+                        IsVisible="False">
+                        <ListView x:Name="listGroup" HeightRequest="150">
+                            <ListView.ItemTemplate>
+                                <DataTemplate>
+                                    <TextCell Text="{Binding GroupName}" />
+                                </DataTemplate>
+                            </ListView.ItemTemplate>
+                        </ListView>
                     </Frame>
+                </StackLayout>
+                <StackLayout Margin="10,10,10,0" Orientation="Horizontal">
                     <Label
                         FontAttributes="Bold"
                         FontSize="18"
@@ -48,6 +60,7 @@
                         <DatePicker x:Name="Date" />
                     </Frame>
                 </StackLayout>
+
                 <StackLayout Orientation="Horizontal">
                     <Label
                         FontAttributes="Bold"

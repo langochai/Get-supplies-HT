@@ -1,0 +1,137 @@
+D:\02.Sumi Wiring\PM_NhatVatTu\NhatVatTu\NhatVatTu\NhatVatTu\bin\Debug\netstandard2.0\NhatVatTu.deps.json
+D:\02.Sumi Wiring\PM_NhatVatTu\NhatVatTu\NhatVatTu\NhatVatTu\bin\Debug\netstandard2.0\NhatVatTu.dll
+D:\02.Sumi Wiring\PM_NhatVatTu\NhatVatTu\NhatVatTu\NhatVatTu\bin\Debug\netstandard2.0\ref\NhatVatTu.dll
+D:\02.Sumi Wiring\PM_NhatVatTu\NhatVatTu\NhatVatTu\NhatVatTu\bin\Debug\netstandard2.0\NhatVatTu.pdb
+D:\02.Sumi Wiring\PM_NhatVatTu\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\NhatVatTu.GeneratedMSBuildEditorConfig.editorconfig
+D:\02.Sumi Wiring\PM_NhatVatTu\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\02.Sumi Wiring\PM_NhatVatTu\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\02.Sumi Wiring\PM_NhatVatTu\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\NhatVatTu.AssemblyInfoInputs.cache
+D:\02.Sumi Wiring\PM_NhatVatTu\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\NhatVatTu.AssemblyInfo.cs
+D:\02.Sumi Wiring\PM_NhatVatTu\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\NhatVatTu.csproj.CoreCompileInputs.cache
+D:\02.Sumi Wiring\PM_NhatVatTu\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\XamlC.stamp
+D:\02.Sumi Wiring\PM_NhatVatTu\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\NhatVatTu.dll
+D:\02.Sumi Wiring\PM_NhatVatTu\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\ref\NhatVatTu.dll
+D:\02.Sumi Wiring\PM_NhatVatTu\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\NhatVatTu.pdb
+D:\02.Sumi Wiring\PM_NhatVatTu\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\View\HistoryPage.xaml.g.cs
+D:\02.Sumi Wiring\PM_NhatVatTu\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\View\KiemTraPage.xaml.g.cs
+D:\02.Sumi Wiring\PM_NhatVatTu\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\NhatVatTu.csproj.AssemblyReference.cache
+D:\00.Dự án\Sumi Wiring\HeThongNhatVatTu_190124\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\bin\Debug\netstandard2.0\NhatVatTu.deps.json
+D:\00.Dự án\Sumi Wiring\HeThongNhatVatTu_190124\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\bin\Debug\netstandard2.0\NhatVatTu.dll
+D:\00.Dự án\Sumi Wiring\HeThongNhatVatTu_190124\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\bin\Debug\netstandard2.0\NhatVatTu.pdb
+D:\00.Dự án\Sumi Wiring\HeThongNhatVatTu_190124\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\NhatVatTu.csproj.AssemblyReference.cache
+D:\00.Dự án\Sumi Wiring\HeThongNhatVatTu_190124\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\NhatVatTu.GeneratedMSBuildEditorConfig.editorconfig
+D:\00.Dự án\Sumi Wiring\HeThongNhatVatTu_190124\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\00.Dự án\Sumi Wiring\HeThongNhatVatTu_190124\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\00.Dự án\Sumi Wiring\HeThongNhatVatTu_190124\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\View\HistoryPage.xaml.g.cs
+D:\00.Dự án\Sumi Wiring\HeThongNhatVatTu_190124\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\View\KiemTraPage.xaml.g.cs
+D:\00.Dự án\Sumi Wiring\HeThongNhatVatTu_190124\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\NhatVatTu.AssemblyInfoInputs.cache
+D:\00.Dự án\Sumi Wiring\HeThongNhatVatTu_190124\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\NhatVatTu.AssemblyInfo.cs
+D:\00.Dự án\Sumi Wiring\HeThongNhatVatTu_190124\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\NhatVatTu.csproj.CoreCompileInputs.cache
+D:\00.Dự án\Sumi Wiring\HeThongNhatVatTu_190124\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\XamlC.stamp
+D:\00.Dự án\Sumi Wiring\HeThongNhatVatTu_190124\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\NhatVatTu.dll
+D:\00.Dự án\Sumi Wiring\HeThongNhatVatTu_190124\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\refint\NhatVatTu.dll
+D:\00.Dự án\Sumi Wiring\HeThongNhatVatTu_190124\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\NhatVatTu.pdb
+D:\00.Dự án\Sumi Wiring\HeThongNhatVatTu_190124\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\ref\NhatVatTu.dll
+D:\00.Dự án\Sumi Wiring\HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\bin\Debug\netstandard2.0\NhatVatTu.deps.json
+D:\00.Dự án\Sumi Wiring\HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\bin\Debug\netstandard2.0\NhatVatTu.dll
+D:\00.Dự án\Sumi Wiring\HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\bin\Debug\netstandard2.0\NhatVatTu.pdb
+D:\00.Dự án\Sumi Wiring\HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\NhatVatTu.csproj.AssemblyReference.cache
+D:\00.Dự án\Sumi Wiring\HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\NhatVatTu.GeneratedMSBuildEditorConfig.editorconfig
+D:\00.Dự án\Sumi Wiring\HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\00.Dự án\Sumi Wiring\HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\00.Dự án\Sumi Wiring\HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\View\HistoryPage.xaml.g.cs
+D:\00.Dự án\Sumi Wiring\HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\View\KiemTraPage.xaml.g.cs
+D:\00.Dự án\Sumi Wiring\HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\NhatVatTu.AssemblyInfoInputs.cache
+D:\00.Dự án\Sumi Wiring\HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\NhatVatTu.AssemblyInfo.cs
+D:\00.Dự án\Sumi Wiring\HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\NhatVatTu.csproj.CoreCompileInputs.cache
+D:\00.Dự án\Sumi Wiring\HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\XamlC.stamp
+D:\00.Dự án\Sumi Wiring\HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\NhatVatTu.dll
+D:\00.Dự án\Sumi Wiring\HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\refint\NhatVatTu.dll
+D:\00.Dự án\Sumi Wiring\HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\NhatVatTu.pdb
+D:\00.Dự án\Sumi Wiring\HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\ref\NhatVatTu.dll
+D:\00.Dự án\Sumi Wiring\07. HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\bin\Debug\netstandard2.0\NhatVatTu.deps.json
+D:\00.Dự án\Sumi Wiring\07. HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\bin\Debug\netstandard2.0\NhatVatTu.dll
+D:\00.Dự án\Sumi Wiring\07. HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\bin\Debug\netstandard2.0\NhatVatTu.pdb
+D:\00.Dự án\Sumi Wiring\07. HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\NhatVatTu.csproj.AssemblyReference.cache
+D:\00.Dự án\Sumi Wiring\07. HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\NhatVatTu.GeneratedMSBuildEditorConfig.editorconfig
+D:\00.Dự án\Sumi Wiring\07. HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\00.Dự án\Sumi Wiring\07. HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\00.Dự án\Sumi Wiring\07. HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\View\HistoryPage.xaml.g.cs
+D:\00.Dự án\Sumi Wiring\07. HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\View\KiemTraPage.xaml.g.cs
+D:\00.Dự án\Sumi Wiring\07. HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\NhatVatTu.AssemblyInfoInputs.cache
+D:\00.Dự án\Sumi Wiring\07. HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\NhatVatTu.AssemblyInfo.cs
+D:\00.Dự án\Sumi Wiring\07. HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\NhatVatTu.csproj.CoreCompileInputs.cache
+D:\00.Dự án\Sumi Wiring\07. HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\XamlC.stamp
+D:\00.Dự án\Sumi Wiring\07. HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\NhatVatTu.dll
+D:\00.Dự án\Sumi Wiring\07. HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\refint\NhatVatTu.dll
+D:\00.Dự án\Sumi Wiring\07. HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\NhatVatTu.pdb
+D:\00.Dự án\Sumi Wiring\07. HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\ref\NhatVatTu.dll
+D:\07. HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\bin\Debug\netstandard2.0\NhatVatTu.deps.json
+D:\07. HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\bin\Debug\netstandard2.0\NhatVatTu.dll
+D:\07. HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\bin\Debug\netstandard2.0\NhatVatTu.pdb
+D:\07. HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\NhatVatTu.csproj.AssemblyReference.cache
+D:\07. HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\NhatVatTu.GeneratedMSBuildEditorConfig.editorconfig
+D:\07. HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\07. HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\07. HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\View\HistoryPage.xaml.g.cs
+D:\07. HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\View\KiemTraPage.xaml.g.cs
+D:\07. HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\NhatVatTu.AssemblyInfoInputs.cache
+D:\07. HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\NhatVatTu.AssemblyInfo.cs
+D:\07. HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\NhatVatTu.csproj.CoreCompileInputs.cache
+D:\07. HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\XamlC.stamp
+D:\07. HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\NhatVatTu.dll
+D:\07. HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\refint\NhatVatTu.dll
+D:\07. HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\NhatVatTu.pdb
+D:\07. HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\ref\NhatVatTu.dll
+D:\03.HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\bin\Debug\netstandard2.0\NhatVatTu.deps.json
+D:\03.HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\bin\Debug\netstandard2.0\NhatVatTu.dll
+D:\03.HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\bin\Debug\netstandard2.0\NhatVatTu.pdb
+D:\03.HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\NhatVatTu.csproj.AssemblyReference.cache
+D:\03.HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\NhatVatTu.GeneratedMSBuildEditorConfig.editorconfig
+D:\03.HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\03.HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\03.HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\View\HistoryPage.xaml.g.cs
+D:\03.HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\View\KiemTraPage.xaml.g.cs
+D:\03.HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\NhatVatTu.AssemblyInfoInputs.cache
+D:\03.HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\NhatVatTu.AssemblyInfo.cs
+D:\03.HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\NhatVatTu.csproj.CoreCompileInputs.cache
+D:\03.HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\XamlC.stamp
+D:\03.HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\NhatVatTu.dll
+D:\03.HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\refint\NhatVatTu.dll
+D:\03.HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\NhatVatTu.pdb
+D:\03.HeThongNhatVatTu_040324\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\ref\NhatVatTu.dll
+D:\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\bin\Debug\netstandard2.0\NhatVatTu.deps.json
+D:\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\bin\Debug\netstandard2.0\NhatVatTu.dll
+D:\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\bin\Debug\netstandard2.0\NhatVatTu.pdb
+D:\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\NhatVatTu.csproj.AssemblyReference.cache
+D:\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\NhatVatTu.GeneratedMSBuildEditorConfig.editorconfig
+D:\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\View\HistoryPage.xaml.g.cs
+D:\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\View\KiemTraPage.xaml.g.cs
+D:\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\NhatVatTu.AssemblyInfoInputs.cache
+D:\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\NhatVatTu.AssemblyInfo.cs
+D:\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\NhatVatTu.csproj.CoreCompileInputs.cache
+D:\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\XamlC.stamp
+D:\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\NhatVatTu.dll
+D:\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\refint\NhatVatTu.dll
+D:\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\NhatVatTu.pdb
+D:\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\ref\NhatVatTu.dll
+D:\Share\NhatVatTu\NhatVatTu\NhatVatTu\bin\Debug\netstandard2.0\NhatVatTu.deps.json
+D:\Share\NhatVatTu\NhatVatTu\NhatVatTu\bin\Debug\netstandard2.0\NhatVatTu.dll
+D:\Share\NhatVatTu\NhatVatTu\NhatVatTu\bin\Debug\netstandard2.0\NhatVatTu.pdb
+D:\Share\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\NhatVatTu.csproj.AssemblyReference.cache
+D:\Share\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\NhatVatTu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Share\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Share\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Share\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\View\HistoryPage.xaml.g.cs
+D:\Share\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\View\KiemTraPage.xaml.g.cs
+D:\Share\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\NhatVatTu.AssemblyInfoInputs.cache
+D:\Share\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\NhatVatTu.AssemblyInfo.cs
+D:\Share\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\NhatVatTu.csproj.CoreCompileInputs.cache
+D:\Share\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\NhatVatTu.sourcelink.json
+D:\Share\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Share\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\NhatVatTu.dll
+D:\Share\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\refint\NhatVatTu.dll
+D:\Share\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\NhatVatTu.pdb
+D:\Share\NhatVatTu\NhatVatTu\NhatVatTu\obj\Debug\netstandard2.0\ref\NhatVatTu.dll

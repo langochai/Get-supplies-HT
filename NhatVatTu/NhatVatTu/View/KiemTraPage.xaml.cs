@@ -1,7 +1,10 @@
-﻿using NhatVatTu.ViewModel;
+﻿using Newtonsoft.Json;
+using NhatVatTu.Models;
+using NhatVatTu.ViewModel;
 using System;
-using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.ComponentModel;
+using System.Linq;
 using System.Net.Http;
 using System.Text;
 using System.Text.RegularExpressions;
@@ -41,7 +44,6 @@ namespace NhatVatTu.View
             base.OnAppearing();
             GetGroups();
             stackCheckBox.IsVisible = false;
-            groups.SelectedItem = 1;
             txtMaterialCode.Focus();
         }
         #endregion
@@ -51,50 +53,49 @@ namespace NhatVatTu.View
         {
             string uri = url + "reason";
             var response = await Client.GetAsync(uri);
-            if (response.IsSuccessStatusCode)
+            if (!response.IsSuccessStatusCode) await DisplayAlert("Lỗi", "Load dữ liệu lý do thất bại", "OK");
+            try
             {
-                try
+                string content = await response.Content.ReadAsStringAsync();
+                var list = Newtonsoft.Json.JsonConvert.DeserializeObject<ResponseViewModel>(content);
+                StackLayout stackLayout = new StackLayout()
                 {
-                    string content = await response.Content.ReadAsStringAsync();
-                    var list = Newtonsoft.Json.JsonConvert.DeserializeObject<ResponseViewModel>(content);
-                    StackLayout stackLayout = new StackLayout()
-                    {
-                        Margin = new Thickness(0, 0, 0, 0),
-                    };
+                    Margin = new Thickness(0, 0, 0, 0),
+                };
 
-                    foreach (var item in list.listData)
-                    {
-                        StackLayout stack = new StackLayout()
-                        {
-                            Orientation = StackOrientation.Horizontal,
-                        };
-                        RadioButton radio = new RadioButton()
-                        {
-                            VerticalOptions = LayoutOptions.CenterAndExpand,
-                            Margin = new Thickness(0, 0, 5, 0),
-                            GroupName = "radioReason",
-                            Value = item.ID,
-                            IsChecked = true,
-                        };
-                        radio.CheckedChanged += (sender, e) =>
-                        {
-                            bool isChecked = e.Value;
-                            reasonID = Convert.ToInt32(((RadioButton)sender).Value);
-                        };
-                        Label label = new Label()
-                        {
-                            Text = item.ReasonCode,
-                            VerticalOptions = LayoutOptions.CenterAndExpand
-                        };
-                        stack.Children.Add(radio);
-                        stack.Children.Add(label);
-                        stackLayout.Children.Add(stack);
-                    }
-                    stackCheckBox.Children.Add(stackLayout);
-                }
-                catch (Exception ex)
+                foreach (var item in list.listData)
                 {
+                    StackLayout stack = new StackLayout()
+                    {
+                        Orientation = StackOrientation.Horizontal,
+                    };
+                    RadioButton radio = new RadioButton()
+                    {
+                        VerticalOptions = LayoutOptions.CenterAndExpand,
+                        Margin = new Thickness(0, 0, 5, 0),
+                        GroupName = "radioReason",
+                        Value = item.ID,
+                        IsChecked = true,
+                    };
+                    radio.CheckedChanged += (sender, e) =>
+                    {
+                        bool isChecked = e.Value;
+                        reasonID = Convert.ToInt32(((RadioButton)sender).Value);
+                    };
+                    Label label = new Label()
+                    {
+                        Text = item.ReasonCode,
+                        VerticalOptions = LayoutOptions.CenterAndExpand
+                    };
+                    stack.Children.Add(radio);
+                    stack.Children.Add(label);
+                    stackLayout.Children.Add(stack);
                 }
+                stackCheckBox.Children.Add(stackLayout);
+            }
+            catch (Exception ex)
+            {
+                await DisplayAlert("Lỗi", ex.Message, "OK");
             }
         }
         #endregion
@@ -103,22 +104,55 @@ namespace NhatVatTu.View
         private async void GetGroups()
         {
             string uri = url + "groups";
-            var response = await Client.GetAsync(uri);
-            if (response.IsSuccessStatusCode)
+            HttpClient client = new HttpClient();
+            var response = await client.GetAsync(uri);
+            if (!response.IsSuccessStatusCode) await DisplayAlert("Lỗi", "Load dữ liệu nhóm thất bại", "OK");
+            try
             {
-                try
+                string content = await response.Content.ReadAsStringAsync();
+                var list = JsonConvert.DeserializeObject<ResponseViewModel>(content);
+                var groups = new ObservableCollection<GroupsInfo>(
+                    list.listGroup.Select(item => new GroupsInfo { GroupName = item.GroupName }
+                ).ToList());
+                var filteredGroups = new ObservableCollection<GroupsInfo>(groups);
+                void textChangedHandler(object sender, TextChangedEventArgs e)
                 {
-                    string content = await response.Content.ReadAsStringAsync();
-                    var list = Newtonsoft.Json.JsonConvert.DeserializeObject<ResponseViewModel>(content);
-                    foreach (var item in list.listGroup)
+                    string searchText = searchBar.Text;
+                    filteredGroups = new ObservableCollection<GroupsInfo>(
+                        groups.Where(group => group.GroupName.ToLower().Contains(searchText.ToLower())));
+                    listGroup.ItemsSource = filteredGroups;
+                    listGroup.SelectedItem = null;
+                }
+                void onFocused(object sender, FocusEventArgs e)
+                {
+                    listGroupContainer.IsVisible = true;
+                }
+                void onUnfocused(object sender, FocusEventArgs e)
+                {
+                        listGroupContainer.IsVisible = false;
+                }
+                searchBar.TextChanged += textChangedHandler;
+                searchBar.Focused += onFocused;
+                searchBar.Unfocused += onUnfocused;
+                listGroup.ItemsSource = filteredGroups;
+                listGroup.ItemTapped += (sender, e) =>
+                {
+                    if (e.Item is GroupsInfo selectedGroup)
                     {
-                        groups.Items.Add(item.GroupName);
+                        searchBar.TextChanged -= textChangedHandler;
+                        searchBar.Text = selectedGroup.GroupName;
+                        searchBar.TextChanged += textChangedHandler;
+                        listGroupContainer.IsVisible = false;
+                        //txtMaterialCode.Focus();
                     }
-                }
-                catch (Exception ex)
-                {
-                }
+                };
+                //searchBar.Focus();
             }
+            catch (Exception ex)
+            {
+                await DisplayAlert("Lỗi", ex.Message, "OK");
+            }
+
         }
         #endregion
 
@@ -247,11 +281,6 @@ namespace NhatVatTu.View
                 DisplayAlert("Thông báo", "Không được để các thông tin trống.", "OK");
                 return false;
             }
-            if(Convert.ToInt32(txtRealQuantity.Text) > Convert.ToInt32(txtQuantity.Text))
-            {
-                DisplayAlert("Thông báo", "Số lượng thực tế đang lớn hơn số lượng kế hoạch.", "OK");
-                return false;
-            }    
             return true;
         }
         #endregion
@@ -259,8 +288,18 @@ namespace NhatVatTu.View
         #region Event Button
         private async void TxtMaterialCode_Completed(object sender, EventArgs e)
         {
-            string code = txtMaterialCode.Text;
-            string group = groups.SelectedItem.ToString();
+            string code = txtMaterialCode.Text ?? "";
+            string group = searchBar.Text ?? "";
+            if (string.IsNullOrEmpty(code))
+            {
+                await DisplayAlert("Thông báo", "Vui lòng nhập mã vật tư", "OK");
+                return;
+            }
+            if (string.IsNullOrEmpty(group))
+            {
+                await DisplayAlert("Thông báo", "Vui lòng nhập nhóm", "OK");
+                return;
+            }
             DateTime _date = new DateTime(Date.Date.Year, Date.Date.Month, Date.Date.Day, 00, 00, 00);
             string uri = url + $"Material?materialCode={code}&groups={group}&datetime={_date}";
             _uri1 = "vật tư";
@@ -294,12 +333,12 @@ namespace NhatVatTu.View
             }
             else
             {
-                DisplayAlert("Thông báo", "Không tồn tại mã vật tư trong kế hoạch.\nVui lòng kiểm tra lại!", "OK");
                 Device.BeginInvokeOnMainThread(() =>
                 {
                     txtMaterialCode.CursorPosition = 0;
                     txtMaterialCode.SelectionLength = txtMaterialCode.Text.Length;
                 });
+                await DisplayAlert("Thông báo", "Không tồn tại mã vật tư trong kế hoạch.\nVui lòng kiểm tra lại!", "OK");
             }
         }
         private void TxtMaterialContainer_Completed(object sender, EventArgs e)
@@ -349,7 +388,7 @@ namespace NhatVatTu.View
                 stackCheckBox.IsVisible = true;
                 stackCheckBox.Children.Clear();
                 GetReason();
-            } 
+            }
         }
         #endregion
 
@@ -365,7 +404,7 @@ namespace NhatVatTu.View
             model.TotalQuantity = Convert.ToInt32(txtQuantity.Text);
             model.RealQuantity = Convert.ToInt32(txtRealQuantity.Text);
             model.DateTimePlan = _datetimePlan;
-            model.Groups = groups.SelectedItem.ToString();
+            model.Groups = searchBar.Text;
             model.Lines = _lines;
             var json = Newtonsoft.Json.JsonConvert.SerializeObject(model);
             string uri = url + "HistoryCheckMaterial";

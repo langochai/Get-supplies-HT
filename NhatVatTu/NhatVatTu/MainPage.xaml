@@ -1,96 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<ContentPage
-    x:Class="NhatVatTu.MainPage"
-    xmlns="http://xamarin.com/schemas/2014/forms"
-    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="NhatVatTu.MainPage">
 
-    <StackLayout Padding="10">
-        <Frame
-            Padding="10"
-            BorderColor="Green"
-            CornerRadius="5"
-            HasShadow="True"
-            VerticalOptions="CenterAndExpand">
-            <StackLayout>
-                <Label
-                    Margin="0,50,0,0"
-                    FontAttributes="Bold"
-                    FontSize="30"
-                    HorizontalOptions="Center"
-                    Text="ĐĂNG NHẬP" />
-                <Image
-                    Margin="0,-20,0,40"
-                    Aspect="AspectFit"
-                    HeightRequest="130"
-                    HorizontalOptions="Center"
-                    Source="svwspng.png"
-                    WidthRequest="130" />
-
-                <!--  SBD  -->
+    <StackLayout Padding="10" >
+        <Frame BorderColor="Green" CornerRadius="5" HasShadow="True" Padding="10"  VerticalOptions="CenterAndExpand">
+            <StackLayout >
+                <Label Text="ĐĂNG NHẬP" HorizontalOptions="Center" FontAttributes="Bold" FontSize="30" Margin="0, 50, 0, 0" ></Label>
+                <Image Source="svwspng.png"  HorizontalOptions="Center" Aspect="AspectFit" WidthRequest="130" HeightRequest="130" Margin="0, -20, 0, 40"></Image>
+                
+                <!--SBD-->
                 <StackLayout Orientation="Horizontal">
-                    <Label
-                        Margin="15,0,65,0"
-                        FontAttributes="Bold"
-                        FontSize="20"
-                        Text="SBD"
-                        VerticalOptions="CenterAndExpand" />
-                    <Frame
-                        Margin="0,0,0,0"
-                        Padding="1"
-                        BackgroundColor="LightGray"
-                        BorderColor="Green"
-                        HasShadow="False">
-                        <Entry
-                            x:Name="txtSbd"
-                            Margin="5,-5,20,0"
-                            Completed="txtSbd_Completed"
-                            Placeholder="Nhập số báo danh"
-                            VerticalOptions="CenterAndExpand"
-                            WidthRequest="165" />
+                    <Label Text="SBD" VerticalOptions="CenterAndExpand" FontSize="20" FontAttributes="Bold" Margin="15, 0, 65, 0"></Label>
+                    <Frame BorderColor="Green"  HasShadow="False" Padding="1" Margin="0, 0, 0, 0" BackgroundColor="LightGray">
+                        <Entry Placeholder="Nhập số báo danh" x:Name="txtSbd" VerticalOptions="CenterAndExpand" Margin="5, -5, 20, 0" WidthRequest="165" Completed="txtSbd_Completed"></Entry>
                     </Frame>
                 </StackLayout>
 
-                <StackLayout Margin="0,10,0,0" Orientation="Horizontal">
-                    <Label
-                        Margin="15,0,15,0"
-                        FontAttributes="Bold"
-                        FontSize="20"
-                        Text="Password"
-                        VerticalOptions="CenterAndExpand" />
-                    <Frame
-                        Margin="0,0,0,0"
-                        Padding="1"
-                        BackgroundColor="LightGray"
-                        BorderColor="Green"
-                        HasShadow="False">
-                        <Entry
-                            x:Name="txtPassword"
-                            Margin="5,-5,20,0"
-                            IsPassword="True"
-                            Placeholder="Mật khẩu"
-                            VerticalOptions="CenterAndExpand"
-                            WidthRequest="165" />
+                <StackLayout Orientation="Horizontal" Margin="0,10,0,0">
+                    <Label Text="Password" VerticalOptions="CenterAndExpand" FontSize="20" FontAttributes="Bold" Margin="15, 0, 15, 0"></Label>
+                    <Frame BorderColor="Green" HasShadow="False" Padding="1" Margin="0, 0, 0, 0" BackgroundColor="LightGray">
+                        <Entry Placeholder="Mật khẩu"  x:Name="txtPassword" VerticalOptions="CenterAndExpand" WidthRequest="165" Margin="5, -5, 20, 0" IsPassword="True"></Entry>
                     </Frame>
                 </StackLayout>
-                <!--  Sự kiện click Đăng nhập  -->
-                <Button
-                    x:Name="btnDangNhap "
-                    Margin="0,30,0,10"
-                    BackgroundColor="Green"
-                    Clicked="btnDangNhap_Clicked"
-                    HorizontalOptions="FillAndExpand"
-                    Text="Đăng nhập"
-                    TextColor="White" />
-                <Button
-                    x:Name="btnExit "
-                    Margin="0,5,0,10"
-                    BackgroundColor="Red"
-                    Clicked="btnExit_Clicked"
-                    HorizontalOptions="FillAndExpand"
-                    Text="Thoát"
-                    TextColor="White" />
+                    <!--Sự kiện click Đăng nhập-->
+                <Button Text="Đăng nhập" HorizontalOptions="FillAndExpand" x:Name="btnDangNhap " BackgroundColor="Green" TextColor="White" Margin="0, 30, 0, 10" Clicked="btnDangNhap_Clicked" ></Button>
+                <Button Text="Thoát" HorizontalOptions="FillAndExpand" x:Name="btnExit " BackgroundColor="Red" TextColor="White" Margin="0, 5, 0, 10" Clicked="btnExit_Clicked"> </Button>
             </StackLayout>
-
+            
         </Frame>
     </StackLayout>
 </ContentPage>

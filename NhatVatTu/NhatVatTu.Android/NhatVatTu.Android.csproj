@@ -40,8 +40,6 @@
     <MandroidI18n />
     <EmbedAssembliesIntoApk>true</EmbedAssembliesIntoApk>
     <AndroidUseAapt2>true</AndroidUseAapt2>
-    <Debugger>Native</Debugger>
-    <PlatformTarget>AnyCPU</PlatformTarget>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -57,10 +55,10 @@
     <Reference Include="Mono.Android" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
-    <Reference Include="System.Numerics.Vectors" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Xml" />
     <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json">
@@ -106,4 +104,9 @@
     <AndroidResource Include="Resources\drawable\svwspng.png" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <UserProperties XamarinHotReloadGenericExceptionInfoBarNhatVatTuAndroidHideInfoBar="True" />
+    </VisualStudio>
+  </ProjectExtensions>
 </Project>
