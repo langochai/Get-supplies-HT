@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NhatVatTu")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e4a9d4034e2f4e94e0955add2b01245ca4d475e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7fce3a1c9059d873a9dc3196f339e30ae0c4a48")]
 [assembly: System.Reflection.AssemblyProductAttribute("NhatVatTu")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NhatVatTu")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
