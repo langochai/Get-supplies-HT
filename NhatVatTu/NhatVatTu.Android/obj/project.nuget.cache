@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k6jgP0vZiOw=",
+  "dgSpecHash": "UXA2MVLxk3E=",
   "success": true,
-  "projectFilePath": "D:\\Share\\NhatVatTu\\NhatVatTu\\NhatVatTu.Android\\NhatVatTu.Android.csproj",
+  "projectFilePath": "C:\\NhatVatTu\\NhatVatTu\\NhatVatTu.Android\\NhatVatTu.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Latitude 5520\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
     "C:\\Users\\Latitude 5520\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",

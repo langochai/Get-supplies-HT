@@ -4440,11 +4440,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Share\\NhatVatTu\\NhatVatTu\\NhatVatTu.Android\\NhatVatTu.Android.csproj",
+      "projectUniqueName": "C:\\NhatVatTu\\NhatVatTu\\NhatVatTu.Android\\NhatVatTu.Android.csproj",
       "projectName": "NhatVatTu.Android",
-      "projectPath": "D:\\Share\\NhatVatTu\\NhatVatTu\\NhatVatTu.Android\\NhatVatTu.Android.csproj",
+      "projectPath": "C:\\NhatVatTu\\NhatVatTu\\NhatVatTu.Android\\NhatVatTu.Android.csproj",
       "packagesPath": "C:\\Users\\Latitude 5520\\.nuget\\packages\\",
-      "outputPath": "D:\\Share\\NhatVatTu\\NhatVatTu\\NhatVatTu.Android\\obj\\",
+      "outputPath": "C:\\NhatVatTu\\NhatVatTu\\NhatVatTu.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "UsingMicrosoftNETSdk": false,
@@ -4472,8 +4472,8 @@
       "frameworks": {
         "monoandroid11.0": {
           "projectReferences": {
-            "D:\\Share\\NhatVatTu\\NhatVatTu\\NhatVatTu\\NhatVatTu.csproj": {
-              "projectPath": "D:\\Share\\NhatVatTu\\NhatVatTu\\NhatVatTu\\NhatVatTu.csproj"
+            "C:\\NhatVatTu\\NhatVatTu\\NhatVatTu\\NhatVatTu.csproj": {
+              "projectPath": "C:\\NhatVatTu\\NhatVatTu\\NhatVatTu\\NhatVatTu.csproj"
             }
           }
         }

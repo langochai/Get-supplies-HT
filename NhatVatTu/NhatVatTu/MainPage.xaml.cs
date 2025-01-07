@@ -8,7 +8,7 @@ using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Forms;
-using System.Text.Json;
+using Newtonsoft.Json;
 using NhatVatTu.Models;
 using NhatVatTu.ViewModel;
 
@@ -66,12 +66,14 @@ namespace NhatVatTu
                 }
                 else
                 {
-                    await DisplayAlert("Login failed", "Tên đăng nhập hoặc mật khẩu không chính xác", "Ok");
+                    var errObj = await response.Content.ReadAsStringAsync();
+                    var errorMessage = JsonConvert.DeserializeObject<ErrorResponse>(errObj)?.Message;
+                    await DisplayAlert("Lỗi", errorMessage, "OK");
                 }
             }
             catch (Exception ex)
             {
-                await DisplayAlert("Lỗi rồi..", ex.Message, "Đóng");
+                await DisplayAlert("Lỗi mạng", $"Kết nối tới server thất bại: {ex.Message}", "Đóng");
             }
         }
 

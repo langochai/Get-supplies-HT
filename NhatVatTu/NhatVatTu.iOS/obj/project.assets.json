@@ -6164,11 +6164,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Share\\NhatVatTu\\NhatVatTu\\NhatVatTu.iOS\\NhatVatTu.iOS.csproj",
+      "projectUniqueName": "C:\\NhatVatTu\\NhatVatTu\\NhatVatTu.iOS\\NhatVatTu.iOS.csproj",
       "projectName": "NhatVatTu.iOS",
-      "projectPath": "D:\\Share\\NhatVatTu\\NhatVatTu\\NhatVatTu.iOS\\NhatVatTu.iOS.csproj",
+      "projectPath": "C:\\NhatVatTu\\NhatVatTu\\NhatVatTu.iOS\\NhatVatTu.iOS.csproj",
       "packagesPath": "C:\\Users\\Latitude 5520\\.nuget\\packages\\",
-      "outputPath": "D:\\Share\\NhatVatTu\\NhatVatTu\\NhatVatTu.iOS\\obj\\",
+      "outputPath": "C:\\NhatVatTu\\NhatVatTu\\NhatVatTu.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "UsingMicrosoftNETSdk": false,
@@ -6196,8 +6196,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "D:\\Share\\NhatVatTu\\NhatVatTu\\NhatVatTu\\NhatVatTu.csproj": {
-              "projectPath": "D:\\Share\\NhatVatTu\\NhatVatTu\\NhatVatTu\\NhatVatTu.csproj"
+            "C:\\NhatVatTu\\NhatVatTu\\NhatVatTu\\NhatVatTu.csproj": {
+              "projectPath": "C:\\NhatVatTu\\NhatVatTu\\NhatVatTu\\NhatVatTu.csproj"
             }
           }
         }

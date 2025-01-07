@@ -25,9 +25,9 @@ androidgeneratejnimarshalmethods=false
 os=windows_nt
 androidincludedebugsymbols=true
 androidpackagenamingpolicy=lowercasecrc64
-_nugetassetstimestamp=638711441879863648
+_nugetassetstimestamp=638718419607437192
 typemapkind=strings-asm
 androidsupportedabis=armeabi-v7a
 arm64-v8a
 androidmanifestplaceholders=
-projectfullpath=d:\share\nhatvattu\nhatvattu\nhatvattu.android\nhatvattu.android.csproj
+projectfullpath=c:\nhatvattu\nhatvattu\nhatvattu.android\nhatvattu.android.csproj

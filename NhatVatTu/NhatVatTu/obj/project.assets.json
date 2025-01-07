@@ -2671,11 +2671,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Share\\NhatVatTu\\NhatVatTu\\NhatVatTu\\NhatVatTu.csproj",
+      "projectUniqueName": "C:\\NhatVatTu\\NhatVatTu\\NhatVatTu\\NhatVatTu.csproj",
       "projectName": "NhatVatTu",
-      "projectPath": "D:\\Share\\NhatVatTu\\NhatVatTu\\NhatVatTu\\NhatVatTu.csproj",
+      "projectPath": "C:\\NhatVatTu\\NhatVatTu\\NhatVatTu\\NhatVatTu.csproj",
       "packagesPath": "C:\\Users\\Latitude 5520\\.nuget\\packages\\",
-      "outputPath": "D:\\Share\\NhatVatTu\\NhatVatTu\\NhatVatTu\\obj\\",
+      "outputPath": "C:\\NhatVatTu\\NhatVatTu\\NhatVatTu\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages",

@@ -57,7 +57,7 @@
                         BorderColor="Orange"
                         HasShadow="False"
                         WidthRequest="160">
-                        <DatePicker x:Name="Date" />
+                        <DatePicker x:Name="Date" Format="dd/MM/yyyy" />
                     </Frame>
                 </StackLayout>
 

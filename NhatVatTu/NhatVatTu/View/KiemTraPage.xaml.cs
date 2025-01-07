@@ -8,6 +8,7 @@ using System.Linq;
 using System.Net.Http;
 using System.Text;
 using System.Text.RegularExpressions;
+using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -51,11 +52,11 @@ namespace NhatVatTu.View
         #region Hàm lấy danh sách lý do
         private async void GetReason()
         {
-            string uri = url + "reason";
-            var response = await Client.GetAsync(uri);
-            if (!response.IsSuccessStatusCode) await DisplayAlert("Lỗi", "Load dữ liệu lý do thất bại", "OK");
             try
             {
+                string uri = url + "reason";
+                var response = await Client.GetAsync(uri);
+                if (!response.IsSuccessStatusCode) await DisplayAlert("Lỗi", "Load dữ liệu lý do thất bại", "OK");
                 string content = await response.Content.ReadAsStringAsync();
                 var list = Newtonsoft.Json.JsonConvert.DeserializeObject<ResponseViewModel>(content);
                 StackLayout stackLayout = new StackLayout()
@@ -93,6 +94,10 @@ namespace NhatVatTu.View
                 }
                 stackCheckBox.Children.Add(stackLayout);
             }
+            catch (TaskCanceledException ex)
+            {
+                await DisplayAlert("Lỗi mạng", $"Kết nối đã vượt quá thời gian chờ", "OK");
+            }
             catch (Exception ex)
             {
                 await DisplayAlert("Lỗi", ex.Message, "OK");
@@ -103,12 +108,16 @@ namespace NhatVatTu.View
         #region Hàm lấy danh sách nhóm
         private async void GetGroups()
         {
-            string uri = url + "groups";
-            HttpClient client = new HttpClient();
-            var response = await client.GetAsync(uri);
-            if (!response.IsSuccessStatusCode) await DisplayAlert("Lỗi", "Load dữ liệu nhóm thất bại", "OK");
             try
             {
+                string uri = url + "groups";
+                HttpClient client = new HttpClient();
+                var response = await client.GetAsync(uri);
+                if (!response.IsSuccessStatusCode)
+                {
+                    await DisplayAlert("Lỗi", "Dữ liệu nhóm không tồn tại", "OK");
+                    return;
+                }
                 string content = await response.Content.ReadAsStringAsync();
                 var list = JsonConvert.DeserializeObject<ResponseViewModel>(content);
                 var groups = new ObservableCollection<GroupsInfo>(
@@ -129,7 +138,7 @@ namespace NhatVatTu.View
                 }
                 void onUnfocused(object sender, FocusEventArgs e)
                 {
-                        listGroupContainer.IsVisible = false;
+                    listGroupContainer.IsVisible = false;
                 }
                 searchBar.TextChanged += textChangedHandler;
                 searchBar.Focused += onFocused;
@@ -148,9 +157,13 @@ namespace NhatVatTu.View
                 };
                 //searchBar.Focus();
             }
+            catch (TaskCanceledException ex)
+            {
+                await DisplayAlert("Lỗi mạng", $"Kết nối đã vượt quá thời gian chờ", "OK");
+            }
             catch (Exception ex)
             {
-                await DisplayAlert("Lỗi", ex.Message, "OK");
+                await DisplayAlert("Lỗi", $"Kết nối tới server thất bại: {ex.Message}", "OK");
             }
 
         }
@@ -301,44 +314,57 @@ namespace NhatVatTu.View
                 return;
             }
             DateTime _date = new DateTime(Date.Date.Year, Date.Date.Month, Date.Date.Day, 00, 00, 00);
-            string uri = url + $"Material?materialCode={code}&groups={group}&datetime={_date}";
+            string uri = url + $"Material?materialCode={code}&groups={group}&datetime={_date.ToString("yyyy-MM-dd")}";
             _uri1 = "vật tư";
             _uri2 = "túi đựng/hộp";
-            var response = await Client.GetAsync(uri);
-            if (response.IsSuccessStatusCode)
+            try
             {
-                if (!string.IsNullOrWhiteSpace(txtMaterialCode.Text) && !string.IsNullOrWhiteSpace(txtMaterialContainer.Text))
+                var response = await Client.GetAsync(uri);
+                if (response.IsSuccessStatusCode)
                 {
-                    if (!CheckMaterial())
+                    if (!string.IsNullOrWhiteSpace(txtMaterialCode.Text) && !string.IsNullOrWhiteSpace(txtMaterialContainer.Text))
                     {
-                        txtMaterialCode.Text = string.Empty;
-                        txtMaterialCode.Focus();
-                        Device.BeginInvokeOnMainThread(() =>
+                        if (!CheckMaterial())
                         {
-                            txtMaterialCode.CursorPosition = 0;
-                            txtMaterialCode.SelectionLength = txtMaterialCode.Text.Length;
-                        });
-                        return;
+                            txtMaterialCode.Text = string.Empty;
+                            txtMaterialCode.Focus();
+                            Device.BeginInvokeOnMainThread(() =>
+                            {
+                                txtMaterialCode.CursorPosition = 0;
+                                txtMaterialCode.SelectionLength = txtMaterialCode.Text.Length;
+                            });
+                            return;
+                        }
                     }
+                    var content = await response.Content.ReadAsStringAsync();
+                    ResponseViewModel model = Newtonsoft.Json.JsonConvert.DeserializeObject<ResponseViewModel>(content);
+                    //txtMaterialCodeNumber.Text = model.countCode.ToString();
+                    txtQuantity.Text = model.data;
+                    _materialName = model.materialName[0];
+                    _materialLocation = model.materialLocation[0];
+                    _datetimePlan = model.timePlan[0];
+                    _lines = model.line[0];
+                    txtMaterialContainer.Focus();
                 }
-                var content = await response.Content.ReadAsStringAsync();
-                ResponseViewModel model = Newtonsoft.Json.JsonConvert.DeserializeObject<ResponseViewModel>(content);
-                //txtMaterialCodeNumber.Text = model.countCode.ToString();
-                txtQuantity.Text = model.data;
-                _materialName = model.materialName[0];
-                _materialLocation = model.materialLocation[0];
-                _datetimePlan = model.timePlan[0];
-                _lines = model.line[0];
-                txtMaterialContainer.Focus();
-            }
-            else
-            {
-                Device.BeginInvokeOnMainThread(() =>
+                else
                 {
-                    txtMaterialCode.CursorPosition = 0;
-                    txtMaterialCode.SelectionLength = txtMaterialCode.Text.Length;
-                });
-                await DisplayAlert("Thông báo", "Không tồn tại mã vật tư trong kế hoạch.\nVui lòng kiểm tra lại!", "OK");
+                    Device.BeginInvokeOnMainThread(() =>
+                    {
+                        txtMaterialCode.CursorPosition = 0;
+                        txtMaterialCode.SelectionLength = txtMaterialCode.Text.Length;
+                    });
+                    var errObj = await response.Content.ReadAsStringAsync();
+                    var errorMessage = JsonConvert.DeserializeObject<ErrorResponse>(errObj)?.Message;
+                    await DisplayAlert("Thông báo", errorMessage, "OK");
+                }
+            }
+            catch (TaskCanceledException ex)
+            {
+                await DisplayAlert("Lỗi mạng", $"Kết nối đã vượt quá thời gian chờ", "OK");
+            }
+            catch (Exception ex)
+            {
+                await DisplayAlert("Lỗi", $"Kết nối tới server thất bại: {ex.Message}", "OK");
             }
         }
         private void TxtMaterialContainer_Completed(object sender, EventArgs e)
@@ -367,7 +393,7 @@ namespace NhatVatTu.View
             txtRealQuantity.Focus();
         }
 
-        private async void TxtRealQuantity_Completed(object sender, EventArgs e)
+        private void TxtRealQuantity_Completed(object sender, EventArgs e)
         {
             BtnConfirm.Focus();
         }
@@ -408,11 +434,26 @@ namespace NhatVatTu.View
             model.Lines = _lines;
             var json = Newtonsoft.Json.JsonConvert.SerializeObject(model);
             string uri = url + "HistoryCheckMaterial";
-            var response = await Client.PostAsync(uri, new StringContent(json, Encoding.UTF8, "application/json"));
-            if (response.IsSuccessStatusCode)
+            try
             {
-                DisplayAlert("Thông báo", "Đã thêm vào lịch sử kiểm tra", "OK");
-                refresh();
+                var response = await Client.PostAsync(uri, new StringContent(json, Encoding.UTF8, "application/json"));
+                if (response.IsSuccessStatusCode)
+                {
+                    await DisplayAlert("Thông báo", "Đã thêm vào lịch sử kiểm tra", "OK");
+                    refresh();
+                }
+                else
+                {
+                    await DisplayAlert("Lỗi", "Thêm lịch sử thất bại", "OK");
+                }
+            }
+            catch (TaskCanceledException ex)
+            {
+                await DisplayAlert("Lỗi mạng", $"Kết nối đã vượt quá thời gian chờ", "OK");
+            }
+            catch (Exception ex)
+            {
+                await DisplayAlert("Lỗi", $"Kết nối tới server thất bại: {ex.Message}", "OK");
             }
         }
         #endregion

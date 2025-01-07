@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "16NUK/kzLgw=",
+  "dgSpecHash": "02RW4v5dDEY=",
   "success": true,
-  "projectFilePath": "D:\\Share\\NhatVatTu\\NhatVatTu\\NhatVatTu.iOS\\NhatVatTu.iOS.csproj",
+  "projectFilePath": "C:\\NhatVatTu\\NhatVatTu\\NhatVatTu.iOS\\NhatVatTu.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Latitude 5520\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
     "C:\\Users\\Latitude 5520\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",

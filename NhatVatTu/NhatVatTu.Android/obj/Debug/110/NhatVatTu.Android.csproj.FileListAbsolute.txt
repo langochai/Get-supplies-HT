@@ -4554,3 +4554,1221 @@ D:\Share\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\stamp\_ConvertResou
 D:\Share\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\stamp\_GenerateJavaStubs.stamp
 D:\Share\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\stamp\_GeneratePackageManagerJava.stamp
 D:\Share\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\stamp\_ResolveLibraryProjectImports.stamp
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\bin\Debug\NhatVatTu.Android.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\bin\Debug\NhatVatTu.Android.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\bin\Debug\com.companyname.nhatvattu.apk
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\bin\Debug\com.companyname.nhatvattu.aab
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\bin\Debug\com.companyname.nhatvattu-Signed.aab
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\bin\Debug\com.companyname.nhatvattu-Signed.apk
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\bin\Debug\com.companyname.nhatvattu-Signed.apk.idsig
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\bin\Debug\NhatVatTu.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\bin\Debug\NhatVatTu.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\MonoAndroid,Version=v11.0.AssemblyAttributes.cs
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\build.props
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\adb.props
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\NhatVatTu.Android.csproj.AssemblyReference.cache
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\stamp\_BuildLibraryImportsCache.stamp
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\res.flag
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\lp\44\jl\files.cache
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\lp\45\jl\files.cache
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\lp\51\jl\files.cache
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\lp\54\jl\files.cache
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\lp\55\jl\files.cache
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\lp\62\jl\files.cache
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\lp\63\jl\files.cache
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\lp\67\jl\files.cache
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\lp\68\jl\files.cache
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\lp\70\jl\files.cache
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\lp\71\jl\files.cache
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\lp\72\jl\files.cache
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\lp\73\jl\files.cache
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\lp\75\jl\files.cache
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\lp\76\jl\files.cache
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\lp\79\jl\files.cache
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\lp\87\jl\files.cache
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\R.txt
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\R.cs.flag
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\NhatVatTu.Android.csproj.CoreCompileInputs.cache
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\NhatVatT.304EE5EE.Up2Date
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\NhatVatTu.Android.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\NhatVatTu.Android.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\bin\com.companyname.nhatvattu.apk
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\bin\base.zip
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\bin\com.companyname.nhatvattu.aab
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\bin\com.companyname.nhatvattu.apks
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\res\values\styles.xml
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\res\values\colors.xml
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\res\mipmap-anydpi-v26\icon.xml
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\res\mipmap-anydpi-v26\icon_round.xml
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\res\mipmap-hdpi\icon.png
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\res\mipmap-hdpi\launcher_foreground.png
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\res\mipmap-mdpi\icon.png
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\res\mipmap-mdpi\launcher_foreground.png
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\res\mipmap-xhdpi\icon.png
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\res\mipmap-xhdpi\launcher_foreground.png
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\res\mipmap-xxhdpi\icon.png
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\res\mipmap-xxhdpi\launcher_foreground.png
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\res\mipmap-xxxhdpi\icon.png
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\res\mipmap-xxxhdpi\launcher_foreground.png
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\res\drawable\svwspng.png
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\uploadflags.txt
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\resolvedassemblies.hash
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\FormsViewGroup.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\FormsViewGroup.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Java.Interop.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Java.Interop.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Microsoft.Extensions.Configuration.Binder.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Microsoft.Extensions.Configuration.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Microsoft.Extensions.Configuration.Json.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Microsoft.Extensions.DependencyInjection.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Microsoft.Extensions.Diagnostics.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Microsoft.Extensions.Hosting.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Microsoft.Extensions.Logging.Configuration.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Microsoft.Extensions.Logging.Console.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Microsoft.Extensions.Logging.Debug.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Microsoft.Extensions.Logging.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Microsoft.Extensions.Logging.EventLog.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Microsoft.Extensions.Logging.EventSource.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Microsoft.Extensions.Options.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Microsoft.Extensions.Primitives.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Mono.Android.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Mono.Android.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Mono.Security.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Mono.Security.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\mscorlib.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\mscorlib.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\netstandard.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Newtonsoft.Json.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\NhatVatTu.Android.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\NhatVatTu.Android.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\NhatVatTu.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\NhatVatTu.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Buffers.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.ComponentModel.Annotations.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.ComponentModel.Composition.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.ComponentModel.Composition.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.ComponentModel.DataAnnotations.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.ComponentModel.DataAnnotations.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Core.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Core.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Data.DataSetExtensions.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Data.DataSetExtensions.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Data.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Data.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Diagnostics.DiagnosticSource.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Diagnostics.EventLog.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Drawing.Common.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Drawing.Common.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.IO.Compression.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.IO.Compression.FileSystem.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.IO.Compression.FileSystem.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.IO.Compression.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Memory.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Net.Http.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Net.Http.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Numerics.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Numerics.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Numerics.Vectors.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Numerics.Vectors.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Runtime.CompilerServices.Unsafe.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Runtime.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Runtime.Serialization.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Runtime.Serialization.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Security.Principal.Windows.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.ServiceModel.Internals.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.ServiceModel.Internals.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Text.Encodings.Web.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Text.Json.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Threading.Tasks.Extensions.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Transactions.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Transactions.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Web.Services.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Web.Services.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Xml.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Xml.Linq.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Xml.Linq.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Xml.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Activity.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Activity.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Annotation.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Annotation.Experimental.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Annotation.Experimental.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Annotation.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AppCompat.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AppCompat.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Arch.Core.Common.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Arch.Core.Common.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Browser.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Browser.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CardView.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CardView.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Collection.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Collection.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CoordinatorLayout.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CoordinatorLayout.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Core.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Core.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CursorAdapter.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CursorAdapter.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CustomView.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CustomView.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.DocumentFile.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.DocumentFile.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.DrawerLayout.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.DrawerLayout.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Fragment.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Fragment.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Interpolator.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Interpolator.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.V4.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.V4.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.Common.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.Common.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.ViewModelSavedState.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.ViewModelSavedState.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Loader.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Loader.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.LocalBroadcastManager.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.LocalBroadcastManager.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Media.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Media.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.MultiDex.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.MultiDex.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Print.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Print.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.RecyclerView.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.RecyclerView.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SavedState.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SavedState.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SlidingPaneLayout.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SlidingPaneLayout.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Transition.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Transition.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VectorDrawable.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VectorDrawable.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VersionedParcelable.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VersionedParcelable.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.ViewPager.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.ViewPager.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.ViewPager2.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.ViewPager2.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.Essentials.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.Essentials.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.Forms.Core.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.Forms.Core.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.Forms.Platform.Android.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.Forms.Platform.Android.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.Forms.Platform.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.Forms.Xaml.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.Forms.Xaml.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.Google.Android.Material.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.Google.Android.Material.pdb
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.Google.Guava.ListenableFuture.dll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\typemaps.armeabi-v7a.ll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\typemaps.arm64-v8a.ll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\AndroidManifest.xml
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\AndroidManifest.xml
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\MonoRuntimeProvider.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\JavaInteropTypeManager.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\machine.config
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\bin\mono.android.jar
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\static.flag
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\__environment__.txt
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\buildid.txt
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\environment.armeabi-v7a.ll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\environment.arm64-v8a.ll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\androidx\appcompat\R.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\androidx\appcompat\resources\R.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\androidx\appcompat\widget\Toolbar_NavigationOnClickEventDispatcher.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\androidx\browser\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\androidx\browser\R.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\androidx\cardview\R.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\androidx\coordinatorlayout\R.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\androidx\core\R.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\androidx\drawerlayout\R.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\androidx\fragment\R.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\androidx\media\R.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\androidx\recyclerview\R.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\androidx\savedstate\R.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\androidx\swiperefreshlayout\R.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\androidx\transition\R.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\androidx\viewpager2\R.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\com\google\android\material\R.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\com\google\android\material\snackbar\Snackbar_SnackbarActionClickImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc6414252951f3f66c67\CarouselViewAdapter_2.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64396a3fe5f8138e3f\CustomTabsServiceConnectionImpl.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64396a3fe5f8138e3f\KeepAliveService.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewOnScrollListener.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewwOnGlobalLayoutListener.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ContainerView.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler_CustomLocalStateData.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EllipseRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EllipseView.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FlyoutPageContainer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FlyoutPageRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FlyoutPageRendererNonAppCompat.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsAnimationDrawable.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsVideoView.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GenericGlobalLayoutListener.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable_GradientShaderFactory.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\IndicatorViewRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\LineRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\LineView.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper_InitialScrollListener.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PageContainer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PathRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PathView.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PolygonRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PolygonView.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PolylineRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PolylineView.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\RadioButtonRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\RectangleRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\RectView.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\RecyclerViewContainer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ScrollLayoutManager.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShapeRenderer_2.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShapeView.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFlyoutLayout.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SwipeViewRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_TapGestureListener.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f87cc5734f5801d\MainActivity.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\ClipboardChangeListener.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\IntermediateActivity.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\Listener.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorCallbackActivity.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorIntermediateActivity.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64a25b61d9f8ee364f\FloatArrayEvaluator.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64a25b61d9f8ee364f\RectEvaluator.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64a25b61d9f8ee364f\TransitionUtils.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64a25b61d9f8ee364f\TransitionUtils_MatrixEvaluator.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64ee486da937c010f4\FrameRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64ee486da937c010f4\ImageRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64ee486da937c010f4\LabelRenderer.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\appcompat\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\appcompat\app\ActionBar_OnNavigationListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\appcompat\app\ActionBar_TabListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\MenuItemHoverListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\PopupMenu_OnDismissListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\SearchView_OnCloseListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\SearchView_OnQueryTextListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\SearchView_OnSuggestionListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\ViewStubCompat_OnInflateListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\asynclayoutinflater\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\core\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\core\os\CancellationSignal_OnCancelListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\core\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\core\view\ActionProvider_VisibilityListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\core\view\DragStartHelper_OnDragStartListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\core\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\core\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\core\view\OnApplyWindowInsetsListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\core\view\ViewPropertyAnimatorListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\core\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\core\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\drawerlayout\widget\DrawerLayout_DrawerListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\fragment\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\loader\content\Loader_OnLoadCanceledListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\loader\content\Loader_OnLoadCompleteListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\recyclerview\widget\AsyncListDiffer_ListListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\recyclerview\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnItemTouchListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\recyclerview\widget\RecyclerView_RecyclerListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\slidingpanelayout\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\swiperefreshlayout\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\transition\Transition_TransitionListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\viewpager\widget\ViewPager_OnAdapterChangeListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\viewpager\widget\ViewPager_OnPageChangeListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\android\app\ApplicationRegistration.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\com\google\android\material\appbar\AppBarLayout_OnOffsetChangedListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\com\google\android\material\behavior\SwipeDismissBehavior_OnDismissListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\com\google\android\material\bottomnavigation\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\com\google\android\material\bottomnavigation\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\com\google\android\material\button\MaterialButtonToggleGroup_OnButtonCheckedListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\com\google\android\material\button\MaterialButton_OnCheckedChangeListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\com\google\android\material\card\MaterialCardView_OnCheckedChangeListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\com\google\android\material\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\com\google\android\material\datepicker\MaterialPickerOnPositiveButtonClickListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\com\google\android\material\internal\ViewUtils_OnApplyWindowInsetsListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\com\google\android\material\navigation\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\com\google\android\material\shape\ShapeAppearancePathProvider_PathListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\com\google\android\material\slider\BaseOnChangeListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\com\google\android\material\slider\BaseOnSliderTouchListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\com\google\android\material\tabs\TabLayout_BaseOnTabSelectedListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\com\google\android\material\textfield\TextInputLayout_OnEditTextAttachedListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\com\google\android\material\textfield\TextInputLayout_OnEndIconChangedListenerImplementor.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\MonoPackageManager_Resources.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\xamarin\essentials\fileProvider.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\bin\packaged_resources
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\com\companyname\nhatvattu\R.java
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\compressed_assemblies.armeabi-v7a.ll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\compressed_assemblies.arm64-v8a.ll
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\typemaps.armeabi-v7a.o
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\typemaps.arm64-v8a.o
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\environment.armeabi-v7a.o
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\environment.arm64-v8a.o
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\compressed_assemblies.armeabi-v7a.o
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\compressed_assemblies.arm64-v8a.o
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\marshal_methods.armeabi-v7a.o
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\marshal_methods.arm64-v8a.o
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\jni_remap.armeabi-v7a.o
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\jni_remap.arm64-v8a.o
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\app_shared_libraries\arm64-v8a\libxamarin-app.so
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\bin\classes.dex
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\stamp\_CleanIntermediateIfNeeded.stamp
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\stamp\_CompileJava.stamp
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\stamp\_CompileToDalvik.stamp
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\stamp\_ConvertCustomView.stamp
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\stamp\_ConvertResourcesCases.stamp
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\stamp\_GenerateJavaStubs.stamp
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\stamp\_GeneratePackageManagerJava.stamp
+D:\Share\Hệ thống nhặt vật tư\03.HeThongNhatVatTu_240424\sourcecode_HanderTerminal\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\stamp\_ResolveLibraryProjectImports.stamp
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\bin\Debug\NhatVatTu.Android.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\bin\Debug\NhatVatTu.Android.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\bin\Debug\com.companyname.nhatvattu.apk
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\bin\Debug\com.companyname.nhatvattu.aab
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\bin\Debug\com.companyname.nhatvattu-Signed.aab
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\bin\Debug\com.companyname.nhatvattu-Signed.apk
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\bin\Debug\com.companyname.nhatvattu-Signed.apk.idsig
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\bin\Debug\NhatVatTu.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\bin\Debug\NhatVatTu.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\MonoAndroid,Version=v11.0.AssemblyAttributes.cs
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\build.props
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\adb.props
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\NhatVatTu.Android.csproj.AssemblyReference.cache
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\stamp\_BuildLibraryImportsCache.stamp
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\res.flag
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\lp\44\jl\files.cache
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\lp\45\jl\files.cache
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\lp\51\jl\files.cache
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\lp\54\jl\files.cache
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\lp\55\jl\files.cache
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\lp\62\jl\files.cache
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\lp\63\jl\files.cache
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\lp\67\jl\files.cache
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\lp\68\jl\files.cache
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\lp\70\jl\files.cache
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\lp\71\jl\files.cache
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\lp\72\jl\files.cache
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\lp\73\jl\files.cache
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\lp\75\jl\files.cache
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\lp\76\jl\files.cache
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\lp\79\jl\files.cache
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\lp\87\jl\files.cache
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\R.txt
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\R.cs.flag
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\NhatVatTu.Android.csproj.CoreCompileInputs.cache
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\NhatVatT.304EE5EE.Up2Date
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\NhatVatTu.Android.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\NhatVatTu.Android.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\bin\com.companyname.nhatvattu.apk
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\bin\base.zip
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\bin\com.companyname.nhatvattu.aab
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\bin\com.companyname.nhatvattu.apks
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\res\values\styles.xml
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\res\values\colors.xml
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\res\mipmap-anydpi-v26\icon.xml
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\res\mipmap-anydpi-v26\icon_round.xml
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\res\mipmap-hdpi\icon.png
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\res\mipmap-hdpi\launcher_foreground.png
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\res\mipmap-mdpi\icon.png
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\res\mipmap-mdpi\launcher_foreground.png
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\res\mipmap-xhdpi\icon.png
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\res\mipmap-xhdpi\launcher_foreground.png
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\res\mipmap-xxhdpi\icon.png
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\res\mipmap-xxhdpi\launcher_foreground.png
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\res\mipmap-xxxhdpi\icon.png
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\res\drawable\svwspng.png
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\uploadflags.txt
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\resolvedassemblies.hash
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\FormsViewGroup.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\FormsViewGroup.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Java.Interop.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Java.Interop.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Microsoft.Bcl.AsyncInterfaces.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Microsoft.Extensions.Configuration.Binder.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Microsoft.Extensions.Configuration.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Microsoft.Extensions.Configuration.Json.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Microsoft.Extensions.DependencyInjection.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Microsoft.Extensions.Diagnostics.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Microsoft.Extensions.FileProviders.Physical.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Microsoft.Extensions.Hosting.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Microsoft.Extensions.Logging.Abstractions.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Microsoft.Extensions.Logging.Configuration.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Microsoft.Extensions.Logging.Console.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Microsoft.Extensions.Logging.Debug.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Microsoft.Extensions.Logging.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Microsoft.Extensions.Logging.EventLog.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Microsoft.Extensions.Logging.EventSource.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Microsoft.Extensions.Options.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Microsoft.Extensions.Primitives.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Mono.Android.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Mono.Android.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Mono.Security.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Mono.Security.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\mscorlib.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\mscorlib.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\netstandard.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Newtonsoft.Json.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\NhatVatTu.Android.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\NhatVatTu.Android.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\NhatVatTu.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\NhatVatTu.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Buffers.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.ComponentModel.Annotations.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.ComponentModel.Composition.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.ComponentModel.Composition.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.ComponentModel.DataAnnotations.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.ComponentModel.DataAnnotations.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Core.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Core.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Data.DataSetExtensions.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Data.DataSetExtensions.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Data.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Data.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Diagnostics.DiagnosticSource.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Diagnostics.EventLog.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Drawing.Common.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Drawing.Common.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.IO.Compression.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.IO.Compression.FileSystem.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.IO.Compression.FileSystem.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.IO.Compression.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Memory.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Net.Http.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Net.Http.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Numerics.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Numerics.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Numerics.Vectors.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Numerics.Vectors.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Runtime.CompilerServices.Unsafe.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Runtime.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Runtime.Serialization.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Runtime.Serialization.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Security.Principal.Windows.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.ServiceModel.Internals.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.ServiceModel.Internals.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Text.Encodings.Web.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Text.Json.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Threading.Tasks.Extensions.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Transactions.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Transactions.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Web.Services.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Web.Services.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Xml.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Xml.Linq.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Xml.Linq.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\System.Xml.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Activity.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Activity.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Annotation.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Annotation.Experimental.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Annotation.Experimental.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Annotation.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AppCompat.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AppCompat.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Arch.Core.Common.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Arch.Core.Common.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Browser.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Browser.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CardView.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CardView.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Collection.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Collection.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CoordinatorLayout.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CoordinatorLayout.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Core.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Core.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CursorAdapter.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CursorAdapter.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CustomView.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.CustomView.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.DocumentFile.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.DocumentFile.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.DrawerLayout.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.DrawerLayout.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Fragment.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Fragment.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Interpolator.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Interpolator.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.V4.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Legacy.Support.V4.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.Common.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.Common.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.ViewModelSavedState.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Lifecycle.ViewModelSavedState.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Loader.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Loader.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.LocalBroadcastManager.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.LocalBroadcastManager.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Media.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Media.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.MultiDex.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.MultiDex.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Print.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Print.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.RecyclerView.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.RecyclerView.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SavedState.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SavedState.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SlidingPaneLayout.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SlidingPaneLayout.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Transition.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.Transition.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VectorDrawable.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VectorDrawable.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VersionedParcelable.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.VersionedParcelable.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.ViewPager.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.ViewPager.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.ViewPager2.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.AndroidX.ViewPager2.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.Essentials.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.Essentials.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.Forms.Core.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.Forms.Core.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.Forms.Platform.Android.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.Forms.Platform.Android.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.Forms.Platform.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.Forms.Xaml.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.Forms.Xaml.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.Google.Android.Material.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.Google.Android.Material.pdb
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\Xamarin.Google.Guava.ListenableFuture.dll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\typemaps.armeabi-v7a.ll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\typemaps.arm64-v8a.ll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\AndroidManifest.xml
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\AndroidManifest.xml
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\MonoRuntimeProvider.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\JavaInteropTypeManager.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\assets\machine.config
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\bin\mono.android.jar
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\static.flag
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\__environment__.txt
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\buildid.txt
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\environment.armeabi-v7a.ll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\environment.arm64-v8a.ll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\androidx\appcompat\R.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\androidx\appcompat\resources\R.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\androidx\appcompat\widget\Toolbar_NavigationOnClickEventDispatcher.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\androidx\browser\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\androidx\browser\R.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\androidx\cardview\R.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\androidx\coordinatorlayout\R.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\androidx\core\R.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\androidx\drawerlayout\R.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\androidx\fragment\R.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\androidx\media\R.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\androidx\recyclerview\R.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\androidx\savedstate\R.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\androidx\swiperefreshlayout\R.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\androidx\transition\R.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\androidx\viewpager2\R.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\com\google\android\material\R.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\com\google\android\material\snackbar\Snackbar_SnackbarActionClickImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc6414252951f3f66c67\CarouselViewAdapter_2.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64396a3fe5f8138e3f\CustomTabsServiceConnectionImpl.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64396a3fe5f8138e3f\KeepAliveService.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewOnScrollListener.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewwOnGlobalLayoutListener.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ContainerView.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler_CustomLocalStateData.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EllipseRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EllipseView.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FlyoutPageContainer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FlyoutPageRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FlyoutPageRendererNonAppCompat.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsAnimationDrawable.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsVideoView.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GenericGlobalLayoutListener.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable_GradientShaderFactory.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\IndicatorViewRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\LineRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\LineView.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper_InitialScrollListener.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PageContainer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PathRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PathView.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PolygonRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PolygonView.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PolylineRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PolylineView.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\RadioButtonRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\RectangleRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\RectView.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\RecyclerViewContainer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ScrollLayoutManager.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShapeRenderer_2.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShapeView.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFlyoutLayout.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SwipeViewRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_TapGestureListener.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc643f87cc5734f5801d\MainActivity.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\ClipboardChangeListener.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\IntermediateActivity.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\Listener.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorCallbackActivity.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorIntermediateActivity.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64a25b61d9f8ee364f\FloatArrayEvaluator.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64a25b61d9f8ee364f\RectEvaluator.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64a25b61d9f8ee364f\TransitionUtils.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64a25b61d9f8ee364f\TransitionUtils_MatrixEvaluator.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64ee486da937c010f4\FrameRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64ee486da937c010f4\ImageRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\crc64ee486da937c010f4\LabelRenderer.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\appcompat\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\appcompat\app\ActionBar_OnNavigationListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\appcompat\app\ActionBar_TabListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\MenuItemHoverListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\PopupMenu_OnDismissListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\SearchView_OnCloseListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\SearchView_OnQueryTextListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\SearchView_OnSuggestionListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\appcompat\widget\ViewStubCompat_OnInflateListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\asynclayoutinflater\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\core\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\core\os\CancellationSignal_OnCancelListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\core\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\core\view\ActionProvider_VisibilityListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\core\view\DragStartHelper_OnDragStartListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\core\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\core\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\core\view\OnApplyWindowInsetsListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\core\view\ViewPropertyAnimatorListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\core\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\core\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\drawerlayout\widget\DrawerLayout_DrawerListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\fragment\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\loader\content\Loader_OnLoadCanceledListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\loader\content\Loader_OnLoadCompleteListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\recyclerview\widget\AsyncListDiffer_ListListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\recyclerview\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnItemTouchListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\recyclerview\widget\RecyclerView_RecyclerListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\slidingpanelayout\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\swiperefreshlayout\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\transition\Transition_TransitionListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\viewpager\widget\ViewPager_OnAdapterChangeListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\androidx\viewpager\widget\ViewPager_OnPageChangeListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\android\app\ApplicationRegistration.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\com\google\android\material\appbar\AppBarLayout_OnOffsetChangedListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\com\google\android\material\behavior\SwipeDismissBehavior_OnDismissListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\com\google\android\material\bottomnavigation\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\com\google\android\material\bottomnavigation\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\com\google\android\material\button\MaterialButtonToggleGroup_OnButtonCheckedListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\com\google\android\material\button\MaterialButton_OnCheckedChangeListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\com\google\android\material\card\MaterialCardView_OnCheckedChangeListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\com\google\android\material\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\com\google\android\material\datepicker\MaterialPickerOnPositiveButtonClickListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\com\google\android\material\internal\ViewUtils_OnApplyWindowInsetsListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\com\google\android\material\navigation\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\com\google\android\material\shape\ShapeAppearancePathProvider_PathListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\com\google\android\material\slider\BaseOnChangeListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\com\google\android\material\slider\BaseOnSliderTouchListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\com\google\android\material\tabs\TabLayout_BaseOnTabSelectedListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\com\google\android\material\textfield\TextInputLayout_OnEditTextAttachedListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\com\google\android\material\textfield\TextInputLayout_OnEndIconChangedListenerImplementor.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\mono\MonoPackageManager_Resources.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\xamarin\essentials\fileProvider.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\bin\packaged_resources
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\src\com\companyname\nhatvattu\R.java
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\compressed_assemblies.armeabi-v7a.ll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\compressed_assemblies.arm64-v8a.ll
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\typemaps.armeabi-v7a.o
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\typemaps.arm64-v8a.o
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\environment.armeabi-v7a.o
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\environment.arm64-v8a.o
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\compressed_assemblies.armeabi-v7a.o
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\compressed_assemblies.arm64-v8a.o
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\marshal_methods.armeabi-v7a.o
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\marshal_methods.arm64-v8a.o
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\jni_remap.armeabi-v7a.o
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\jni_remap.arm64-v8a.o
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\app_shared_libraries\arm64-v8a\libxamarin-app.so
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\android\bin\classes.dex
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\stamp\_CleanIntermediateIfNeeded.stamp
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\stamp\_CompileJava.stamp
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\stamp\_CompileToDalvik.stamp
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\stamp\_ConvertCustomView.stamp
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\stamp\_ConvertResourcesCases.stamp
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\stamp\_GenerateJavaStubs.stamp
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\stamp\_GeneratePackageManagerJava.stamp
+C:\NhatVatTu\NhatVatTu\NhatVatTu.Android\obj\Debug\110\stamp\_ResolveLibraryProjectImports.stamp
